@@ -1,1 +1,6 @@
-print("Hello Genj! Privet Igor!")
+def sayHello():
+    print("Helloo")
+    print("World")
+    print("Vsem Gopa ):")
+
+sayHello()
